@@ -22,8 +22,9 @@ This system streamlines inventory tasks, ensuring organized book-handling experi
 - [ ] Add books to mybooks list
 
 ## 🛠️ Technologies
-Spring Boot: A Java-based framework for building enterprise-level applications.
-Maven: A project management and build automation tool, used for dependency management.
-MySQL Database: A popular open-source relational database management system.
-CRUD Operations: Stands for Create, Read, Update, and Delete. These are the basic operations performed on a database.
-RESTful API: Representational State Transfer, an architectural style for designing networked applications, used for communication between the front-end and back-end of the application.
+
+# Spring Boot: A Java-based framework for building enterprise-level applications.
+# Maven: A project management and build automation tool, used for dependency management.
+# MySQL Database: A popular open-source relational database management system.
+# CRUD Operations: Stands for Create, Read, Update, and Delete. These are the basic operations performed on a database.
+# RESTful API: Representational State Transfer, an architectural style for designing networked applications, used for communication between the front-end and back-end of the application.
