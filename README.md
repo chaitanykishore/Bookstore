@@ -10,10 +10,10 @@ This system streamlines inventory tasks, ensuring organized book-handling experi
 ## 📷️ Showcase
 
 ### Screen shots
-![Screenshot (18)](https://github.com/chaitanykishore/Bookstore/assets/113979917/abd524d7-8d40-4193-930e-e1a3fd846fbf)
-![Screenshot (19)](https://github.com/chaitanykishore/Bookstore/assets/113979917/fe8a0f0a-b274-4949-98bd-cef3c20a85ef)
-![Screenshot (20)](https://github.com/chaitanykishore/Bookstore/assets/113979917/7357cf31-97e2-419f-8fe2-45bce92b3bd5)
-![Screenshot (21)](https://github.com/chaitanykishore/Bookstore/assets/113979917/098c2361-557c-4c6a-9179-44217d77d8ca)
+![Screenshot (18)](https://github.com/chaitanykishore/Bookstore/assets/113979917/c74229b8-b2cf-41d7-a46b-e89ce37a227f)
+![Screenshot (19)](https://github.com/chaitanykishore/Bookstore/assets/113979917/bcab9107-4517-4831-84a8-9d05224dd18a)
+![Screenshot (20)](https://github.com/chaitanykishore/Bookstore/assets/113979917/028a6df8-88c4-4640-a2a9-0c8dee8ff421)
+![Screenshot (21)](https://github.com/chaitanykishore/Bookstore/assets/113979917/cab4a348-ae43-458d-8458-a1ead053feab)
 
 ### Features
 - [ ] Add new book to the list
